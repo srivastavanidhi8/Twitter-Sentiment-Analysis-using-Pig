@@ -1,6 +1,6 @@
 # Twitter-Sentiment-Analysis-using-Pig
 
-##Twitter Data using R
+#Twitter Data using R
 
 We will be using “RTweet” package from the GitHub, which is an extension of previously used package TwitteR. Link - https://github.com/mkearney/rtweet
 
